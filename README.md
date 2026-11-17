@@ -1,4 +1,4 @@
-# living-bread-org
+# The Living Bread
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-living-bread-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://living-bread.org/
+The Living Bread is a free, nonprofit Christian community and prayer app that helps people gather around Jesus. It offers programs for prayer, finding a church, studying the Word, serving real needs, and belonging to a supportive family. The platform is ad‑free, algorithm‑free, and does not sell anything, aiming to provide a safe space for spiritual growth and connection.
+
+**Areas:** Christian · Community · Prayer · Nonprofit · App
+
+## The Living Bread on APIs.io
+
+Everything profiled for The Living Bread is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/living-bread-org/](https://apis.io/providers/living-bread-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (35)
+
+- [The Living Bread Answered API](https://apis.io/apis/living-bread-org/living-bread-org-answered-api/) — The Answered API from The Living Bread — 1 operation(s) for answered.
+- [The Living Bread Ask API](https://apis.io/apis/living-bread-org/living-bread-org-ask-api/) — The Ask API from The Living Bread — 2 operation(s) for ask.
+- [The Living Bread Bible Place API](https://apis.io/apis/living-bread-org/living-bread-org-bible-place-api/) — The Bible Place API from The Living Bread — 1 operation(s) for bible place.
+- [The Living Bread Biblical Figure API](https://apis.io/apis/living-bread-org/living-bread-org-biblical-figure-api/) — The Biblical Figure API from The Living Bread — 1 operation(s) for biblical figure.
+- [The Living Bread Church API](https://apis.io/apis/living-bread-org/living-bread-org-church-api/) — The Church API from The Living Bread — 2 operation(s) for church.
+- [The Living Bread Communities API](https://apis.io/apis/living-bread-org/living-bread-org-communities-api/) — The Communities API from The Living Bread — 1 operation(s) for communities.
+- [The Living Bread Community API](https://apis.io/apis/living-bread-org/living-bread-org-community-api/) — The Community API from The Living Bread — 1 operation(s) for community.
+- [The Living Bread Crisis API](https://apis.io/apis/living-bread-org/living-bread-org-crisis-api/) — The Crisis API from The Living Bread — 1 operation(s) for crisis.
+- [The Living Bread Data API](https://apis.io/apis/living-bread-org/living-bread-org-data-api/) — The Data API from The Living Bread — 12 operation(s) for data.
+- [The Living Bread Denomination API](https://apis.io/apis/living-bread-org/living-bread-org-denomination-api/) — The Denomination API from The Living Bread — 1 operation(s) for denomination.
+- [The Living Bread Feeds API](https://apis.io/apis/living-bread-org/living-bread-org-feeds-api/) — The Feeds API from The Living Bread — 1 operation(s) for feeds.
+- [The Living Bread Gathering API](https://apis.io/apis/living-bread-org/living-bread-org-gathering-api/) — The Gathering API from The Living Bread — 1 operation(s) for gathering.
+- [The Living Bread Gathering Cities API](https://apis.io/apis/living-bread-org/living-bread-org-gathering-cities-api/) — The Gathering Cities API from The Living Bread — 1 operation(s) for gathering cities.
+- [The Living Bread Gatherings API](https://apis.io/apis/living-bread-org/living-bread-org-gatherings-api/) — The Gatherings API from The Living Bread — 1 operation(s) for gatherings.
+- [The Living Bread Ministries API](https://apis.io/apis/living-bread-org/living-bread-org-ministries-api/) — The Ministries API from The Living Bread — 1 operation(s) for ministries.
+- [The Living Bread Ministry API](https://apis.io/apis/living-bread-org/living-bread-org-ministry-api/) — The Ministry API from The Living Bread — 1 operation(s) for ministry.
+- [The Living Bread Nearby API](https://apis.io/apis/living-bread-org/living-bread-org-nearby-api/) — The Nearby API from The Living Bread — 1 operation(s) for nearby.
+- [The Living Bread Need API](https://apis.io/apis/living-bread-org/living-bread-org-need-api/) — The Need API from The Living Bread — 1 operation(s) for need.
+- [The Living Bread Needs API](https://apis.io/apis/living-bread-org/living-bread-org-needs-api/) — The Needs API from The Living Bread — 1 operation(s) for needs.
+- [The Living Bread Now API](https://apis.io/apis/living-bread-org/living-bread-org-now-api/) — The Now API from The Living Bread — 2 operation(s) for now.
+- [The Living Bread Person API](https://apis.io/apis/living-bread-org/living-bread-org-person-api/) — The Person API from The Living Bread — 1 operation(s) for person.
+- [The Living Bread Places API](https://apis.io/apis/living-bread-org/living-bread-org-places-api/) — The Places API from The Living Bread — 1 operation(s) for places.
+- [The Living Bread Prayer API](https://apis.io/apis/living-bread-org/living-bread-org-prayer-api/) — The Prayer API from The Living Bread — 1 operation(s) for prayer.
+- [The Living Bread Praying Now API](https://apis.io/apis/living-bread-org/living-bread-org-praying-now-api/) — The Praying Now API from The Living Bread — 1 operation(s) for praying now.
+- [The Living Bread Protocol API](https://apis.io/apis/living-bread-org/living-bread-org-protocol-api/) — The Protocol API from The Living Bread — 1 operation(s) for protocol.
+- [The Living Bread Resolve API](https://apis.io/apis/living-bread-org/living-bread-org-resolve-api/) — The Resolve API from The Living Bread — 1 operation(s) for resolve.
+- [The Living Bread Response API](https://apis.io/apis/living-bread-org/living-bread-org-response-api/) — The Response API from The Living Bread — 1 operation(s) for response.
+- [The Living Bread Sacred Site API](https://apis.io/apis/living-bread-org/living-bread-org-sacred-site-api/) — The Sacred Site API from The Living Bread — 1 operation(s) for sacred site.
+- [The Living Bread Saint API](https://apis.io/apis/living-bread-org/living-bread-org-saint-api/) — The Saint API from The Living Bread — 1 operation(s) for saint.
+- [The Living Bread Scripture API](https://apis.io/apis/living-bread-org/living-bread-org-scripture-api/) — The Scripture API from The Living Bread — 1 operation(s) for scripture.
+- [The Living Bread Service Opportunities API](https://apis.io/apis/living-bread-org/living-bread-org-service-opportunities-api/) — The Service Opportunities API from The Living Bread — 1 operation(s) for service opportunities.
+- [The Living Bread Testimonies API](https://apis.io/apis/living-bread-org/living-bread-org-testimonies-api/) — The Testimonies API from The Living Bread — 1 operation(s) for testimonies.
+- [The Living Bread Testimony API](https://apis.io/apis/living-bread-org/living-bread-org-testimony-api/) — The Testimony API from The Living Bread — 1 operation(s) for testimony.
+- [The Living Bread The Living Bread Christian Knowledge API And Kingdom Protocol API](https://apis.io/apis/living-bread-org/living-bread-org-the-living-bread-christian-knowledge-api-and-kingdom-protocol-api/) — The The Living Bread Christian Knowledge API And Kingdom Protocol API from The Living Bread — 1 operation(s) for the living bread christian knowledge api…
+- [The Living Bread Verify API](https://apis.io/apis/living-bread-org/living-bread-org-verify-api/) — The Verify API from The Living Bread — 1 operation(s) for verify.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [The Living Bread Agentic Access](https://apis.io/agentic-access/living-bread-org/living-bread-org-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [The Living Bread API Rules](https://apis.io/rules/living-bread-org/living-bread-org-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [The Living Bread Authentication](https://apis.io/security/living-bread-org/living-bread-org-authentication/)
+- [The Living Bread Domain Security](https://apis.io/security/living-bread-org/living-bread-org-domain-security/)
+- [The Living Bread Vulnerability Disclosure](https://apis.io/security/living-bread-org/living-bread-org-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://living-bread.org/)
+- [API reference](https://living-bread.org/llms.txt)
+- [Support](https://living-bread.org/support)
+- [Security](https://living-bread.org/legal/terms)
+- [Trust centre](https://living-bread.org/trust)
+- [Privacy policy](https://living-bread.org/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.0** — thin · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 40.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 14.9 |
+
+**Agent readiness 35.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/living-bread-org/](https://apis.io/providers/living-bread-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for The Living Bread: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/living-bread-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
